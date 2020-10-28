@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 403a7a68d045564418c9094b74966742
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - contadorIzquierda: {instanceID: 0}
+  - contadorDerecha: {instanceID: 0}
+  - audioGol: {fileID: 8300000, guid: c91f58cc07ac13846a4de4d89560ca55, type: 3}
+  - audioRaqueta: {fileID: 8300000, guid: 10ef7d949db43864dbfdc6daacf98385, type: 3}
+  - audioRebote: {fileID: 8300000, guid: ff1bb708363358b4eb259bca75887f00, type: 3}
+  - audioInicio: {fileID: 8300000, guid: b5d85e96114b21d41bea76d7323d8ce7, type: 3}
+  - audioFin: {fileID: 8300000, guid: de0b3ca59ed86d140a2a6d19cd0a458e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
